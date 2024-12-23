@@ -11,4 +11,5 @@
 
 ## Welcome My Git
 
-Welcome to my github and check out some of the other projects
+Welcome to my github and check out some of the other projects\
+Thanks for your reading
